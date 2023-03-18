@@ -1,11 +1,10 @@
 ```javascript
-const Darkzy = {
+const Syrrah = {
   name: undefined,
-  age: 16,
-  portfolio: "https://darkzy.dev/",
+  age: 17,
   technologies: {
-    languages: ["JavaScript/TypeScript", "Python", "C++", "SQL"],
-    databases: ["MySQL", "MongoDB"],
+    languages: ["JavaScript/TypeScript", "Python", "C++", "SQL" , "Lua"],
+    databases: ["MySQL"],
     frameworks: ["React", "Tailwind CSS"],
   },
   preferences: {
